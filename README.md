@@ -14,6 +14,6 @@ textbook:
 
 Complementary<br>
 matrix: https://www.cds.caltech.edu/~marsden/wiki/uploads/math1c-08/textbooks/matrix_algebra.pdf
-
+https://textbooks.math.gatech.edu/ila/1553/linear-independence.html
 
 https://www.markdownguide.org/basic-syntax/
