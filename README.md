@@ -11,3 +11,6 @@ https://math.mit.edu/~gs/linearalgebra/ila6/indexila6.html
 
 textbook:
 [4e](https://students.aiu.edu/submissions/profiles/resources/onlineBook/Y5B7M4_Introduction_to_Linear_Algebra-_Fourth_Edition.pdf)
+
+
+matrix: https://www.cds.caltech.edu/~marsden/wiki/uploads/math1c-08/textbooks/matrix_algebra.pdf
