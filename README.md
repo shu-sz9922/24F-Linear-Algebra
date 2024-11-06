@@ -1,7 +1,6 @@
 # 24F-Linear-Algebra
 
-
-https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/pages/ax-b-and-the-four-subspaces/
+https://web.mit.edu/18.06/www/
 https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/pages/resource-index/
 
 book's website:
