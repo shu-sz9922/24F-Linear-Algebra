@@ -14,3 +14,6 @@ textbook:
 
 Complementary<br>
 matrix: https://www.cds.caltech.edu/~marsden/wiki/uploads/math1c-08/textbooks/matrix_algebra.pdf
+
+
+https://www.markdownguide.org/basic-syntax/
